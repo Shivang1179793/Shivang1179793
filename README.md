@@ -1,7 +1,7 @@
-
+<p align="center"><img src="https://github.com/Infi-09/Infi-09/blob/main/header.png" width="1380px" height="180px"></p>
 <h1 align="center">Hi 👋, I'm Shivang Baranwal</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
-<img align="right" alt="Coding" height="400" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU">
+<img src="https://github.com/Infi-09/Infi-09/blob/main/intro.gif" width="30%" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivang1179793&label=Profile%20views&color=0e75b6&style=flat" alt="shivang1179793" /> </p>
 
 - 🔭 I’m currently working on [My Personal Portfolio Website](https://silly-centaur-d3d421.netlify.app/)
